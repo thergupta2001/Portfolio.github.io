@@ -1,5 +1,5 @@
 import React from 'react'
-// import email from '../../assets/contact/emailicon.png'
+import email from '../../assets/contact/emailIcon.png'
 import linkedin from '../../assets/contact/linkedinIcon.png'
 import github from '../../assets/contact/githubIcon.png'
 import styles from './Contact.module.css'
@@ -14,7 +14,7 @@ const Contact = () => {
 
         <ul className={styles.links}>
             <li className={styles.link}>
-                {/* <img src={email} alt='email'/> */}
+                <img src={email} alt='email'/>
                 <a href='mailto:2001.rohangupta@gmail.com'>2001.rohangupta@gmail.com</a>
             </li>
             <li className={styles.link}>

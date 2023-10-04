@@ -3,6 +3,7 @@ import aboutImage from "../../assets/about/aboutImage.png";
 import cursorIcon from "../../assets/about/cursorIcon.png";
 import serverIcon from "../../assets/about/serverIcon.png";
 import styles from "./About.module.css";
+import man from "../../assets/about/man.png";
 
 const About = () => {
   return (

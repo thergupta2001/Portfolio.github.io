@@ -14,7 +14,7 @@ import '@fontsource/roboto'
 function App() {
   return (
     <>
-      <div className={styles.App}>
+      <div className={styles.App} style={{width: "100%"}}>
         <Navbar />
         <Hero />
         <About />

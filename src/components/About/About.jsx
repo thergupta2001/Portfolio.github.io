@@ -4,6 +4,7 @@ import cursorIcon from "../../assets/about/cursorIcon.png";
 import serverIcon from "../../assets/about/serverIcon.png";
 import styles from "./About.module.css";
 import man from "../../assets/about/man.png";
+import abtIcon from "../../assets/about/abtIcon.png";
 
 const About = () => {
   return (
@@ -11,7 +12,7 @@ const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={aboutImage}
+          src={abtIcon}
           alt="Sitting with laptop"
           className={styles.aboutImg}
         />

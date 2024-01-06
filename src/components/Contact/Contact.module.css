@@ -74,3 +74,32 @@
     margin: auto;
 }
 
+.mailForm input,
+.mailForm textarea {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.mailForm textarea {
+    resize: vertical;
+    width: 100%;
+}
+
+.sendMessage {
+    text-decoration: none;
+     color: var(--color-text);
+     font-size: 20px;
+     font-weight: 300;
+     border-radius: 100px;
+     background: var(--color-primary);
+     padding: 6px 22px;
+     transition: box-shadow 0.3s ease;
+}
+
+.sendMessage:hover {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* White shadow on hover */
+}

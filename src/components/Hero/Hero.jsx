@@ -9,7 +9,7 @@ const Hero = () => {
       {/* <img src={ heroImage } alt='HeroImage' className={styles.heroImg} /> */}
         <div className={styles.content}>
             <h1 className={styles.title}>Hello, this is Rohan</h1>
-            <p className={styles.description}>I am a third - year student, from IIT (ISM), Dhanbad. I am a fresher into the world of <b>WEB DEVELOPMENT</b>, and I am looking for opportunities. Feel free to reach out if you would like to hear more!</p>
+            <p className={styles.description}>I'm a third-year student at IIT (ISM), Dhanbad, stepping into the world of <b>WEB DEVELOPMENT</b>. Open to opportunities, feel free to reach out if you want to know more!</p>
             <a href='mailto:2001.rohangupta@gmail.com' className={styles.contactBtn}>Contact Me</a>
         </div>
         <img src={ rohan } alt='HeroImage' className={styles.heroImg} />

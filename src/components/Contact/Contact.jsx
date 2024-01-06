@@ -71,8 +71,8 @@ const Contact = () => {
               required
             />
             <input type="text" placeholder="Subject" name="subject" required />
-            <textarea name="message" cols="30" rows="10"></textarea>
-            <button type="submit">Send Message</button>
+            <textarea name="message" cols="30" rows="10" placeholder="Send message"></textarea>
+            <button type="submit" className={styles.sendMessage}>Send Message</button>
           </form>
         </li>
       </ul>

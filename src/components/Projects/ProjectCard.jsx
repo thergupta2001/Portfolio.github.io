@@ -12,9 +12,9 @@ const ProjectCard = (props) => {
       <h3 className={styles.title}>{props.title}</h3>
       <p className={styles.description}>{props.description}</p>
       <ul className={styles.skills}>
-        {props.skills.map((skill) => {
+        {props.skills.map((skill, id) => {
           return (
-               <li className={styles.skill}>{skill}</li>
+               <li className={styles.skill} key={id}>{skill}</li>
           );
         })}
       </ul>

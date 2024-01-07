@@ -30,6 +30,7 @@
     align-items: flex-start;
     list-style: none;
     gap: 20px;
+    /* overflow: scroll; */
 }
 
 .link{
@@ -59,13 +60,15 @@
     }
 
     .links{
-        align-items: center;
+        /* align-items: center; */
+        overflow: scroll;
+        justify-content: flex-start;
     }
 }
 
-.contactdetails {
+/* .contactdetails {
     
-}
+} */
 
 .mailForm {
     display: flex;

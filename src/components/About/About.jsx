@@ -22,8 +22,8 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Development</h3>
               <p>
-                I am a fresher in field the frontend development. As you can
-                see, this is my frontend project.
+                I'm a budding frontend developer with a growing skill set.
+                Here's a glimpse of my recent frontend project.
               </p>
             </div>
           </li>
@@ -32,8 +32,10 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Development</h3>
               <p>
-                I am learning and building projects about optimized back-end
-                systems and rendering APIs.
+                I'm immersed in honing my skills, constructing optimized backend
+                systems, and refining APIs. Recently, I've translated this
+                knowledge into tangible personal projects utilizing the MERN
+                stack.
               </p>
             </div>
           </li>

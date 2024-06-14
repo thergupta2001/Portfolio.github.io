@@ -1,20 +1,14 @@
 [
      {
-          "title": "MobileMunch",
-          "description": "Engineered a responsive MERN mobile ordering app, integrating user auth, robust CRUD for orders, dynamic rendering, and precise phone filtering.",
-          "skills": ["React", "Express", "NodeJS", "MongoDB", "Postman", "Tailwind"],
-          "source": "https://github.com/thergupta2001/MobileMunch"
+          "title": "OEReview",
+          "description": "Collaboratively developed an application to allow students of my college to drop a review about the courses they pursue and allow to select courses wisely..",
+          "skills": ["ReactJS", "NodeJS", "Express", "Recoil", "Tailwind", "Material - UI", "Postgres(NeonDB)"],
+          "source": "https://github.com/pspriyanshu601/oeReview"
      },
      {
-          "title": "BlogHub - Backend",
-          "description": "Constructed a scalable backend for a blog platform, fortified user authentication, and optimized user-blog model relations in MongoDB effectively.",
-          "skills": ["JS", "MongoDB Compass", "Express", "NodeJS", "Postman"],
-          "source": "https://github.com/thergupta2001/BlogHub-Backend"
-     },
-     {
-          "title": "BookNest",
-          "description": "Developed a book management app with MVC structure, enabling CRUD operations, and designed an intuitive interface for seamless book entry/display.",
-          "skills": ["JS", "MongoDB Compass", "Express", "NodeJS", "Postman", "React", "CSS"],
-          "source": "https://github.com/thergupta2001/book-store"
+          "title": "Blogs",
+          "description": "Developed a blog application with user authentication, OTP verification, and email notifications using Nodemailer, and a cron job for OTP expiration.",
+          "skills": ["ypeScript", "React", "NodeJS", "Prisma(NeonDB)", "Recoil", "Tailwind"],
+          "source": "https://github.com/thergupta2001/Blogs"
      }
 ]

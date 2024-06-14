@@ -8,7 +8,7 @@
      {
           "title": "Blogs",
           "description": "Developed a blog application with user authentication, OTP verification, and email notifications using Nodemailer, and a cron job for OTP expiration.",
-          "skills": ["ypeScript", "React", "NodeJS", "Prisma(NeonDB)", "Recoil", "Tailwind"],
+          "skills": ["TypeScript", "React", "NodeJS", "Prisma(NeonDB)", "Recoil", "Tailwind"],
           "source": "https://github.com/thergupta2001/Blogs"
      }
 ]

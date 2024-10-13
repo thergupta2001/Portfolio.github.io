@@ -1,13 +1,5 @@
-import React from 'react'
 import skills from '../data/skills.json'
 import styles from './Experience.module.css'
-
-// const skills = [
-//     {
-//         "title": "HTML",
-//         "imageSrc": "../../assets/skills/html.png"
-//     }
-// ]
 
 const Experience = () => {
   return (

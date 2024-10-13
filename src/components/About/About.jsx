@@ -1,9 +1,6 @@
-import React from "react";
-import aboutImage from "../../assets/about/aboutImage.png";
 import cursorIcon from "../../assets/about/cursorIcon.png";
 import serverIcon from "../../assets/about/serverIcon.png";
 import styles from "./About.module.css";
-import man from "../../assets/about/man.png";
 import abtIcon from "../../assets/about/abtIcon.png";
 
 const About = () => {
@@ -22,8 +19,8 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Development</h3>
               <p>
-                I'm a budding frontend developer with a growing skill set.
-                Here's a glimpse of my recent frontend project.
+                I{"'"}m a budding frontend developer with a growing skill set.
+                My skills include React, Next, state management using Recoil, and API integration.
               </p>
             </div>
           </li>
@@ -32,10 +29,8 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Development</h3>
               <p>
-                I'm immersed in honing my skills, constructing optimized backend
-                systems, and refining APIs. Recently, I've translated this
-                knowledge into tangible personal projects utilizing the MERN
-                stack.
+                I{"'"}m immersed in honing my skills, constructing optimized backend
+                systems. My skills include Node.js, Express, MongoDB, Postgres, Prisma ORM, tRPC, with knowledge of TypeScript, DBMS.
               </p>
             </div>
           </li>

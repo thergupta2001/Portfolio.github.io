@@ -6,9 +6,15 @@
           "source": "https://github.com/pspriyanshu601/oeReview"
      },
      {
-          "title": "Blogs",
-          "description": "Developed a blog application with user authentication, OTP verification, and email notifications using Nodemailer, and a cron job for OTP expiration.",
-          "skills": ["TypeScript", "React", "NodeJS", "Prisma(NeonDB)", "Recoil", "Tailwind"],
-          "source": "https://github.com/thergupta2001/Blogs"
+          "title": "TracknGo",
+          "description": "Collaboratively developed a bus management system with Next.js, PostgreSQL, Prisma ORM, and NextAuth, featuring fleet tracking, trip scheduling, driver management, and a sleek UI with Tailwind CSS and ShadCN.",
+          "skills": ["TypeScript", "Next", "NextAuth", "NodeJS", "Prisma(NeonDB)", "Recoil", "Tailwind"],
+          "source": "https://github.com/bhargabdhungel/trackngo"
+     },
+     {
+          "title": "VidShare",
+          "description": "Developed a video-sharing platform with Next.js, tRPC, Prisma, and AWS S3, featuring NextAuth authentication, 50MB MP4 upload limits, and optimized storage for seamless content management.",
+          "skills": ["Next", "NextAuth", "tRPC", "Prisma(MongoDB)", "AWS S3"],
+          "source": "https://github.com/thergupta2001/VidShare"
      }
 ]

@@ -1,5 +1,3 @@
-import React from 'react'
-import heroImage from '../../assets/hero/heroImage.png'
 import styles from './Hero.module.css'
 import rohan from '../../assets/hero/rohan.jpeg'
 

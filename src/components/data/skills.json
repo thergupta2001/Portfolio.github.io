@@ -12,6 +12,10 @@
         "imageSrc": "./skills/js.png"
     },
     {
+        "title": "Typescript",
+        "imageSrc": "./skills/ts.png"
+    },
+    {
         "title": "React",
         "imageSrc": "./skills/react.png"
     },
@@ -30,5 +34,17 @@
     {
         "title": "MongoDB",
         "imageSrc": "./skills/mongodb.png"
+    },
+    {
+        "title": "Postgres",
+        "imageSrc": "./skills/postgres.png"
+    },
+    {
+        "title": "Next",
+        "imageSrc": "./skills/next.png"
+    },
+    {
+        "title": "Prisma ORM",
+        "imageSrc": "./skills/prisma.png"
     }
 ]
